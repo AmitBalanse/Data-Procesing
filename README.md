@@ -1,4 +1,4 @@
 # Name :- Data Procesing
 # Status :- Completed
-# Completion Date :- Sep 2022
+# Project Duration :- Sep 2022 - Sep 2022
 # Desciption :- Data prepartion for further model building.
